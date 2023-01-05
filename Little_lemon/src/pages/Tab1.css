@@ -1,0 +1,88 @@
+.image-place {
+  width: 390px;
+  padding-left: 203px;
+  margin-top: -50px;
+}
+.placing {
+  display: flex;
+}
+.bg-color {
+  background: darkslategray;
+}
+.para-place {
+  color: aliceblue;
+  padding-left: 360px;
+  padding-top: 30px;
+}
+.img-place {
+  margin-left: 9px;
+  margin-bottom: -84px;
+  margin-top: -80px;
+}
+.btn-place {
+  --background: gold;
+  padding-left: 415px;
+  margin-top: -65px;
+  color: black;
+}
+.header-place {
+  padding-left: 375px;
+}
+.header-color {
+  color: gold;
+}
+.subheader-color {
+  color: aliceblue;
+}
+.week-spl {
+  padding-left: 375px;
+  display: flex;
+}
+.week-spl-btn {
+  padding-left: 210px;
+  margin-top: 18px;
+  --background: gold;
+  color: black;
+}
+.bg-week-spl {
+  background: white;
+}
+.header-col {
+  color: black;
+}
+.week-spl-img {
+  width: 20vw;
+  height: 20vh;
+}
+.card-place {
+  display: flex;
+  justify-content: center;
+}
+.card-content-color {
+  background: white;
+  color: black;
+}
+.card-content-text {
+  color: black;
+}
+.testimonial-title {
+  display: flex;
+  justify-content: center;
+}
+.testimonial-img {
+  width: 20vw;
+  height: 20vh;
+}
+.color-testimonial {
+  background: goldenrod;
+  color: green;
+}
+.ion-content-scroll-host {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  height: 100%;
+  width: 100%;
+  overflow-y: auto;
+}
